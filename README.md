@@ -1,6 +1,8 @@
 # Monkijapeli
 
-Peli, jonka ideana kerätä mönkijällä kaikki esineet sokkelosta ja voittaa mahdollisesti vastaan tulevat robotit taistelussa, jossa vertaillaan näiden energioita. Suuremman energian omaava voittaa. Sokkelo luodaan sokkelo.txt tiedoston mukaiseksi.  
+Tämä sovellus on toteutettu _Tampereen yliopiston_ olio-ohjelmoinnin perusteet -kurssin harjoitystyönä keväällä 2016. 
+
+Pelin ideana on kerätä mönkijällä kaikki esineet sokkelosta ja voittaa mahdollisesti vastaan tulevat robotit taistelussa, jossa vertaillaan näiden energioita. Suuremman energian omaava voittaa. Sokkelo luodaan sokkelo.txt tiedoston mukaiseksi.  
 
 Käytettävät komennot: lataa, katso ilmansuunta, liiku ilmansuunta, kartta, inventoi, tallenna, muunna lukumäärä, odota, lopeta.
 
