@@ -1,6 +1,6 @@
 # Monkijapeli
 
-Tämä sovellus on toteutettu _Tampereen yliopiston_ olio-ohjelmoinnin perusteet -kurssin harjoitystyönä keväällä 2016. 
+Tämä sovellus on toteutettu _Tampereen yliopiston_ olio-ohjelmoinnin perusteet -kurssin harjoitustyönä keväällä 2016. 
 
 Pelin ideana on kerätä mönkijällä kaikki esineet sokkelosta ja voittaa mahdollisesti vastaan tulevat robotit taistelussa, jossa vertaillaan näiden energioita. Suuremman energian omaava voittaa. Sokkelo luodaan sokkelo.txt tiedoston mukaiseksi.  
 
